@@ -1,3 +1,4 @@
+import model
 import streamlit as st
 from model import predict_trending_topic, df, get_contexts_for_country
 
